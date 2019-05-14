@@ -10,13 +10,13 @@ Please notice currently I have only tested on Python 3.6.5 on Windows 10 64-bit 
 
     tensorflow == 1.9.0
     numpy == 1.14.3
-    matplotlib ==  2.2.2
+    matplotlib == 2.2.2
     seaborn == 0.9.0
     pandas == 0.23.0
 
 Please download the `fashion_mnist` folder and run `run_all.bat` (for Windows) or `run_all.sh` (for Linux).
 
-The general pipeline is:
+The procedure in that batch file is:
 
 1. `train_local_models.py` trains local models according to different settings described in config files in folder `config`, and saves the trained models into folder `model`.
 2. `HMR.py` loads pre-trained local models, and runs our HMR method on different random seeds. Then saves the experimental results into folder `exp`.
