@@ -1,0 +1,9 @@
+API_list: API_fashion,API_fashion,API_fashion
+model_names: 3p_A1,3p_A2,3p_A3
+model_files: 3p_A1.h5,3p_A2.h5,3p_A3.h5
+data_files: fashion_mnist,fashion_mnist,fashion_mnist
+base_path: ..
+all_class_names: [0,1,2,3,4,5,6,7,8,9]
+class_name_lists: [[0,1,2,3,4],[2,3,4,5,6],[5,6,7,8,9]]
+local_class_name_lists:  [[0,1,2,3,4],[2,3,4,5,6],[5,6,7,8,9]]
+local_class_ratio_lists:  [[[0, 1], [0, 1], [0, 0.8], [0, 0.5], [0, 0.2]],[[0.8, 1], [0.5, 1], [0.2, 1], [0, 1], [0, 0.8], [0, 0.5]],[[0.8, 1], [0.5, 1], [0, 1], [0, 1], [0, 1]]]
