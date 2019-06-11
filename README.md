@@ -1,6 +1,6 @@
 # HMR
 This repository (currently) contains Python3 code to reproduce experiments of HMR method described in 
-our ICML'19 paper **Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin**.
+our ICML'19 paper [Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin](http://proceedings.mlr.press/v97/wu19c/wu19c.pdf).
 
 ## Reproduce toy example
 Please check `HMR_toy_example.ipynb` in `ipynb` folder.
