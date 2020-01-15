@@ -30,4 +30,4 @@ We regret to say that we cannot provide everything to reproduce this experiment 
 ---------------
 
 If you have questions or comments about anything related to this work, please
-do not hesitate to contact [Xi-Zhu Wu](http://lamda.nju.edu.cn/wuxz/).
+do not hesitate to contact [Xi-Zhu Wu](http://www.lamda.nju.edu.cn/wuxz/).
